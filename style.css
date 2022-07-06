@@ -100,6 +100,30 @@ p {
     display: flex;
 }
 
+.middle {
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.one-third {
+    width: 25%;
+    padding: 40px 20px;
+    margin-left: 20px;
+    border-radius: 3px;
+    background-color: #EDF5F6;
+}
+
+.first-plan {
+    background-color: #EDF5F6;
+}
+
+.second-plan {
+    background-color: #FFEEEE;
+}
+
+.third-plan {
+    background-color: #FFF4D6;
+}
 
 .footer {
     text-align: center;
