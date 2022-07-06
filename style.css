@@ -125,6 +125,184 @@ p {
     background-color: #FFF4D6;
 }
 
+
+
+.our-work {
+    background-color: #ffdd99;
+    overflow: hidden;
+    padding: 50px 0px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.work-header {
+    color: #000;
+
+}
+
+.working_menu {
+    margin-top: 50px
+}
+
+.working_menu ul {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.working_menu ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+.working_menu ul li a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    display: block;
+    padding: 5px 15px;
+    background-color: #ebc985;
+
+}
+
+.working-images {
+    margin-top: 60px;
+}
+
+.single_box {
+    width: 48%;
+    float: left;
+    text-align: center;
+    margin-top: 30px
+}
+
+.single_box img {
+    width: 450px;
+    height: 400px;
+}
+
+.single_box h2 {
+    font-weight: 100
+}
+
+.load {
+    clear: both
+}
+
+.load_btn {
+    width: 200px;
+    margin: 60px auto;
+    text-align: center;
+    background: #FF5959;
+    display: block;
+    padding: 25px 0px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 400;
+    border-bottom: 1px solid #000;
+
+}
+
+.testimonial_area {
+    padding: 50px 5px;
+    margin-left: 50px;
+}
+
+.testimonial_boxs {
+    margin-top: 50px;
+}
+
+.testimonial_boxs:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.testimonial_single_box {
+    float: left;
+    width: 48%;
+    margin-top: 50px;
+}
+
+.testimonial_img {
+    float: left;
+    width: 30%;
+}
+
+.testimonial_content {
+    float: left;
+    width: 65%;
+    color: black;
+}
+
+.testimonial_img img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.testimonial_content h2 {
+    margin: 20px 0px 0px 0px;
+    font-size: 24px
+}
+
+.testimonial_content h5 {
+    margin: 0px;
+    color: black;
+    font-size: 18px;
+    margin-top: 8px
+}
+
+.testimonial_content p {
+    margin: 0px
+}
+
+.box {
+    background-color: #FFF4D6;
+    height: 100px;
+    width: 700px;
+    background-position: center;
+    margin-left: 350px;
+    padding-top: 70px;
+}
+
+.email-box {
+    height: 40px;
+    justify-content: center;
+    display: inline-flex;
+    margin-left: 170px;
+    width: 360px;
+    padding: 0 10px;
+
+}
+
+.tbox {
+    background-color: #D9D9D9;
+    padding-left: 15px;
+    padding-right: 25px;
+}
+
+.tbox,
+.btn {
+    border: none;
+    outline: none;
+}
+
+.btn {
+    background-color: #FF5959;
+    color: white;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
 .footer {
     text-align: center;
     padding-bottom: 60px;
