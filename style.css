@@ -59,6 +59,47 @@ p {
     text-decoration: none;
 }
 
+.common-h2 {
+    color: black;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.donation {
+    margin-left: 350px;
+}
+
+.amount {
+    width: 11%;
+    height: 90px;
+    font-size: 20px;
+    margin-left: 15px;
+    border-radius: 3px;
+    background-color: #FAFAFA;
+    margin-bottom: 40px;
+}
+
+.special {
+    border-radius: 5px;
+    border: 2px solid #FF6666;
+    color: #FF6666;
+    background-color: #FFEEEE;
+}
+
+.border-bottom {
+    border-bottom: 1px solid rgb(199, 193, 193);
+    text-align: center;
+    width: 50%;
+    margin-left: 330px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+
+}
+
+.flex {
+    display: flex;
+}
+
 
 .footer {
     text-align: center;
