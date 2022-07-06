@@ -211,8 +211,9 @@ p {
 }
 
 .testimonial_area {
+    background-color: #EDF5F6;
     padding: 50px 5px;
-    margin-left: 50px;
+
 }
 
 .testimonial_boxs {
@@ -227,8 +228,10 @@ p {
 
 .testimonial_single_box {
     float: left;
-    width: 48%;
+    width: 40%;
     margin-top: 50px;
+    margin-left: 80px;
+
 }
 
 .testimonial_img {
@@ -249,19 +252,19 @@ p {
 }
 
 .testimonial_content h2 {
-    margin: 20px 0px 0px 0px;
+    margin: 0px 20px;
     font-size: 24px
 }
 
 .testimonial_content h5 {
-    margin: 0px;
+    margin: 0px 20px;
     color: black;
     font-size: 18px;
     margin-top: 8px
 }
 
 .testimonial_content p {
-    margin: 0px
+    margin: 0px 20px;
 }
 
 .box {
